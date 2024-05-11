@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
   "hotfixesFormat": null,
-  "versions": [
- 
-  ]
+"versions": [
+    ...
+    {
+        "id": "1.0.0",
+        "releasedAt": 1715447089,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/",
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/unalive/",
+                "generic": "https://www.fenixcraft.co.za/unalive/"
+            }
+        }
+    }
+]
 }
